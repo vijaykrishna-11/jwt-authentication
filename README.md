@@ -1,0 +1,1 @@
+This repository provides a simple and secure implementation of JSON Web Token (JWT) authentication. It demonstrates how to use JWT for stateless user authentication in modern web applications, ensuring secure access to APIs and protected routes.
